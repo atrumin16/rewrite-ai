@@ -1,3 +1,6 @@
+/
+  Cache-Control: public, max-age=60, s-maxage=600
+
 /*
   Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
   X-Frame-Options: DENY
